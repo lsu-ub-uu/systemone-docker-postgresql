@@ -23,9 +23,6 @@
 	<name>SystemOne PostgreSQL Docker</name>
 
 	<properties>
-		<!--		<docker.repository>${project.artifactId}</docker.repository>-->
-		<!--		<docker.tag>${project.version}</docker.tag>-->
-
 		<cora-docker-postgresql.version>11.0-SNAPSHOT</cora-docker-postgresql.version>
 		
 		<cora-metadata.version>0.6-SNAPSHOT</cora-metadata.version>

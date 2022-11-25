@@ -11,7 +11,7 @@ function run_sql () {
 
 echo ""
 echo "Import metadata"
-run_sql "storagefiles/cora"
-run_sql "storagefiles/jsClient"
-run_sql "storagefiles/systemOne"
-run_sql "storagefiles/testSystem"
+run_sql "dbfiles/cora"
+run_sql "dbfiles/jsClient"
+run_sql "dbfiles/systemOne"
+run_sql "dbfiles/testSystem"
