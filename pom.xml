@@ -28,7 +28,7 @@
 		<cora-metadata.version>1.4-SNAPSHOT</cora-metadata.version>
 		<systemone-metadata.version>1.2-SNAPSHOT</systemone-metadata.version>
 
-		<exec-maven-plugin.version>3.2.0</exec-maven-plugin.version>
+		<exec-maven-plugin.version>3.4.1</exec-maven-plugin.version>
 		<outputDirectory>${project.build.directory}/docker2</outputDirectory>
 	</properties>
 
