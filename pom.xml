@@ -23,7 +23,7 @@
 	<name>SystemOne PostgreSQL Docker</name>
 
 	<properties>
-		<cora-docker-postgresql.version>11.0-SNAPSHOT</cora-docker-postgresql.version>
+		<cora-docker-postgresql.version>11.0.0</cora-docker-postgresql.version>
 		<cora-metadata.version>1.4-SNAPSHOT</cora-metadata.version>
 		<systemone-metadata.version>1.2-SNAPSHOT</systemone-metadata.version>
 		<!-- Override property so docker-build profile activates in this module -->
