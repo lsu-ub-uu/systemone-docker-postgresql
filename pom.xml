@@ -19,7 +19,7 @@
 
 	<artifactId>systemone-docker-postgresql</artifactId>
 	<packaging>pom</packaging>
-	<version>1.9-SNAPSHOT</version>
+	<version>1.11-SNAPSHOT</version>
 	<name>SystemOne PostgreSQL Docker</name>
 
 	<properties>
