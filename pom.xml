@@ -19,7 +19,7 @@
 
 	<artifactId>systemone-docker-postgresql</artifactId>
 	<packaging>pom</packaging>
-	<version>1.18.0</version>
+	<version>1.18.1-SNAPSHOT</version>
 	<name>SystemOne PostgreSQL Docker</name>
 
 	<properties>
@@ -34,7 +34,7 @@
 		<connection>scm:git:https://github.com/lsu-ub-uu/systemone-docker-postgresql.git</connection>
 		<developerConnection>scm:git:https://github.com/lsu-ub-uu/systemone-docker-postgresql.git</developerConnection>
 		<url>https://github.com/lsu-ub-uu/systemone-docker-postgresql</url>
-		<tag>systemone-docker-postgresql-1.18.0</tag>
+		<tag>release/1.18</tag>
 	</scm>
 
 	<dependencies>
