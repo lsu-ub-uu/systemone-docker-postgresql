@@ -24,8 +24,8 @@
 
 	<properties>
 		<cora-docker-postgresql.version>11.1.0</cora-docker-postgresql.version>
-		<cora-metadata.version>1.20.0</cora-metadata.version>
-		<systemone-metadata.version>1.5.0</systemone-metadata.version>
+		<cora-metadata.version>1.21.0</cora-metadata.version>
+		<systemone-metadata.version>1.6.0</systemone-metadata.version>
 		<!-- Override property so docker-build profile activates in this module -->
 		<docker.build.activate>true</docker.build.activate>
 	</properties>
