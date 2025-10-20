@@ -14,7 +14,7 @@
 	<parent>
 		<groupId>se.uu.ub.cora</groupId>
 		<artifactId>cora-parent-docker</artifactId>
-		<version>1.2.0</version>
+		<version>1.3.0</version>
 	</parent>
 
 	<artifactId>systemone-docker-postgresql</artifactId>
@@ -23,7 +23,7 @@
 	<name>SystemOne PostgreSQL Docker</name>
 
 	<properties>
-		<cora-docker-postgresql.version>11.1.0</cora-docker-postgresql.version>
+		<cora-docker-postgresql.version>11.2.0</cora-docker-postgresql.version>
 		<cora-metadata.version>1.32.0</cora-metadata.version>
 		<systemone-metadata.version>1.10.0</systemone-metadata.version>
 		<!-- Override property so docker-build profile activates in this module -->
