@@ -19,11 +19,11 @@
 
 	<artifactId>systemone-docker-postgresql</artifactId>
 	<packaging>pom</packaging>
-	<version>1.103-SNAPSHOT</version>
+	<version>1.104-SNAPSHOT</version>
 	<name>SystemOne PostgreSQL Docker</name>
 
 	<properties>
-		<cora-docker-postgresql.version>11.7.0</cora-docker-postgresql.version>
+		<cora-docker-postgresql.version>11.9.0</cora-docker-postgresql.version>
 		<cora-metadata.version>1.87.0</cora-metadata.version>
 		<systemone-metadata.version>1.19.0</systemone-metadata.version>
 		<!-- Override property so docker-build profile activates in this module -->
